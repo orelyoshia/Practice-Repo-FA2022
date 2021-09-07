@@ -1,27 +1,27 @@
-## Student Name (or name you would preferred to be called)
+## Ian Twait
 
 ### Fall 2021
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course
+- Analytic Geometry and Calculus 1
 
-- Course 2
+- Introduction to Data Science
 
-- Course 3
+- Foundations for Academic Success
 
-- Course 4
+- Introduction to Programming Using Python/Cloud Infrastructure and Services
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Video Games
 
-- Thing 2
+- Hanging out with my freinds
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Jurassic Park as shown in this website <https://jurassicpark.fandom.com/wiki/Jurassic_Park_Wiki>
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2021/09/07
